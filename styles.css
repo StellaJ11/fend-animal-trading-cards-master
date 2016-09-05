@@ -1,19 +1,26 @@
 /* add your CSS here */
+
+.animal-card{
+	width: 300px;
+}
+
 #sleep {
 	font-style: italic;
 }
+
 .fact {
 	font-weight: bold;
 }
-ul {
+
+.list {
 	list-style-type: none;
 }
+
 div {
-	border-style: solid;
-	border-width: 1px;
-	border-color: #d3d3d3;
+	border: 1px solid #d3d3d3;
 	padding: 10px;
 }
-img {
+
+.animal-image {
 	padding-bottom: 10px;
 }
